@@ -135,4 +135,7 @@ This dashboard enables financial institutions to monitor credit portfolio perfor
 **Hatem El-Hadary**
 
 GitHub: https://github.com/Hatem207
+
 LinkedIn: https://www.linkedin.com/in/hatem-el-hadary
+
+
