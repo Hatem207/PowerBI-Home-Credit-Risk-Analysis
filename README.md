@@ -1,7 +1,14 @@
 # PowerBI-Home-Credit-Risk-Analysis
 
 ## Project Overview
-![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Overview.png)
+![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Images/Credit%20Analysis.png)
+![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Images/Executive%20Summary.png)
+![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Images/Customer%20Demographics.png)
+![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Images/Credit%20Analysis.png)
+![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Images/Previous%20Applications.png)
+![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Images/Payment%20Behaviour.png)
+![Dashboard](https://github.com/Hatem207/PowerBI-Home-Credit-Risk-Analysis/blob/main/Images/Executive%20Insights%20%26%20Recommendations.png)
+
 
 This Power BI dashboard provides a comprehensive analysis of Home Credit loan applicants. It helps financial institutions evaluate customer demographics, credit risk, previous loan applications, payment behavior, and default trends through interactive dashboards and key performance indicators (KPIs).
 
