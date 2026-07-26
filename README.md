@@ -138,4 +138,5 @@ GitHub: https://github.com/Hatem207
 
 LinkedIn: https://www.linkedin.com/in/hatem-el-hadary
 
+PowerBi: https://app.powerbi.com/links/dbzBUBUdBM?ctid=f00f2f39-2ff1-431f-aba9-3273f8ad190e&pbi_source=linkShare
 
